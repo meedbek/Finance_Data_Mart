@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FinanceDataMart_LOAD", "FinanceDataMart_LOAD.dtproj", "{85D91C93-EEB9-4713-8969-53ADF9B054E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85D91C93-EEB9-4713-8969-53ADF9B054E2}.Development|Default.ActiveCfg = Development
+		{85D91C93-EEB9-4713-8969-53ADF9B054E2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F79422-11DC-4F47-97CE-3626180D25C7}
+	EndGlobalSection
+EndGlobal
